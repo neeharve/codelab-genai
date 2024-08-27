@@ -5,7 +5,7 @@ https://cloudonair.withgoogle.com/events/gen-ai-for-java-developers<br/>
 https://codelabs.developers.google.com/codelabs/deploy-from-github/gen-ai-java<br/>
 
 **Overview:**<br/>
-Code Editor : **Cloud Shell Editor**<br/>
+Code Editor : Cloud Shell Editor<br/>
 Code Repository : GitHub<br/>
 Build Application : Cloud Build<br/>
 Deploy Application  : Cloud Run<br/>
